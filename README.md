@@ -1,2 +1,2 @@
-# Personal-Income-and-Expenditure-Tracker
-A personal income and expenditure tracker application developed using Flutter and Dart language is a mobile application that helps users keep track of their finances. The application allows users to record their income, expenses, and savings. The application can be used to manage personal finances and keep track of spending habits.
+A personal income and expenditure tracker application developed using Flutter, Dart Language, and Hive Database is a mobile application that helps users keep track of their finances while leveraging the performance and speed of Hive Database.
+The application should have a user-friendly interface that is easy to navigate. Users should be able to easily add new income and expenses entries and view their financial data in a clear and concise manner. The application should also provide the ability to categorize income and expenses to help users identify areas where they may be overspending.
